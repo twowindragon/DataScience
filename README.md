@@ -31,12 +31,12 @@ exploration as the guide.
 3. "Region.csv"
 4. "Weather.csv"
 
-<img src="https://github.com/leejicb/DataScience/assets/76909269/6197a664-a3e2-4d86-9334-7f158a8fb0b7" style="margin-left: auto; margin-right: auto; display: block;" width="480" height="360">
+<img src="https://github.com/leejicb/DataScience/assets/76909269/6197a664-a3e2-4d86-9334-7f158a8fb0b7" style="margin-left: auto; margin-right: auto; display: block;" width="460" height="440">
 
-<img src="https://github.com/leejicb/DataScience/assets/76909269/36ff5d50-eb41-42a3-b030-a6d9b1998b86" style="margin-left: auto; margin-right: auto; display: block;" width="480" height="360">
+<img src="https://github.com/leejicb/DataScience/assets/76909269/36ff5d50-eb41-42a3-b030-a6d9b1998b86" style="margin-left: auto; margin-right: auto; display: block;" >
 
-<img src="https://github.com/leejicb/DataScience/assets/76909269/81754e65-1f86-4f2d-8552-79346296dd96" style="margin-left: auto; margin-right: auto; display: block;"  width="480" height="360">
+<img src="https://github.com/leejicb/DataScience/assets/76909269/81754e65-1f86-4f2d-8552-79346296dd96" style="margin-left: auto; margin-right: auto; display: block;"  width="640" height="420">
 
-<img src="https://github.com/leejicb/DataScience/assets/76909269/68f02e4f-3588-4483-92e6-4a91328bb000" style="margin-left: auto; margin-right: auto; display: block;"  width="480" height="360"><br>
+<img src="https://github.com/leejicb/DataScience/assets/76909269/68f02e4f-3588-4483-92e6-4a91328bb000" style="margin-left: auto; margin-right: auto; display: block;"  width="640" height="360"><br>
 
 ### 4. Covid data exploration
