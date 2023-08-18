@@ -39,4 +39,11 @@ exploration as the guide.
 
 <img src="https://github.com/leejicb/DataScience/assets/76909269/68f02e4f-3588-4483-92e6-4a91328bb000" style="margin-left: auto; margin-right: auto; display: block;"  width="640" height="360"><br>
 
-### 4. Covid data exploration
+### 4. Machine Learning
+
+Using the same data, you are to try the same problem as above, regression prediction of students' final grades (G3), but with some additional steps: 
+
+1. Apply standard scaling, robust scaling, and min-max scaling to the features and try predicting the final grade (G3). 
+2. Apply hyperparameter tuning to the models and explain the differences in performances. 
+3. Include "G1" and "G2" features to the features and explain the differences in performances. 
+4. Explain and justify whether "G1" and "G2" features should be added or not. 
